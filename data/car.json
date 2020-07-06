@@ -1,0 +1,1 @@
+[{"car":"BMW","count":2},{"car":"Mercedes","count":3},{"car":"Audi","count":3},{"car":["BMW","Mercedes"],"count":1},{"car":["BMW","Audi"],"count":1}]
